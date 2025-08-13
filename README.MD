@@ -1,5 +1,4 @@
-```markdown
-# Flight Price Prediction System
+# Flight Price Prediction.
 
 ## Overview
 
@@ -122,4 +121,5 @@ Contributions are welcome, Please follow these steps:
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
+
 For inquiries or collaboration opportunities: muthominicholus22@gmail.com
