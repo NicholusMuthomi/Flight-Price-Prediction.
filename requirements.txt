@@ -178,7 +178,6 @@ python-json-logger==3.3.0
 pytweening==1.2.0
 pytz==2024.2
 PyVirtualDisplay==3.0
-pywin32==308
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.0
@@ -265,4 +264,5 @@ xlsxwriter==3.2.5
 yarg==0.1.9
 yfinance==0.2.61
 zope.event==5.1.1
+
 zope.interface==7.2
